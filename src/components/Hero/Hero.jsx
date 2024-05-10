@@ -7,14 +7,24 @@ const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Pavan Kanamarlapudi</h1>
-        <p className={styles.description}>I'm a MERN Stack Developer. Reach out to know more.</p>
-        <a className={styles.contactBtn} href="mailto:pavankanamarlapudi18@gmail.com">Contact Me</a>
+        <p className={styles.description}>
+          I'm a MERN Stack Developer. Reach out to know more.
+        </p>
+        <a
+          className={styles.contactBtn}
+          href="mailto:pavankanamarlapudi18@gmail.com"
+        >
+          Get in touch🤝
+        </a>
       </div>
-      <img src={getImageUrl("hero/heroImage.jpg")} alt="hero_Image" />
+      <img
+        className={styles.heroImg}
+        src={getImageUrl("hero/heroImage.png")}
+        alt="hero_Image"
+      />
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
-
   );
 };
 
