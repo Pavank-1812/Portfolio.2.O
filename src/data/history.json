@@ -1,0 +1,10 @@
+[
+  {
+    "role": "MERN Stack Developer",
+    "organisation": "Cuvette",
+    "startDate": "Oct, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on MERN Full Stack", "Implemented Projects using MERN"],
+    "imageSrc": "history/cuvette.png"
+  }
+]
