@@ -8,8 +8,11 @@
   --color-dark: #0b2447;
   --color-bg: #04152d;
   --color-title: #4db5ff;
+  --color-projectLink: #4db5ff;
+  --color-skill: orangered;
+  --color-link: orangered;
 
   /* Fonts */
   --font-roboto: "Roboto";
-  --font-poppins: "Poppins"
+  --font-poppins: "Poppins";
 }

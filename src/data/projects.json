@@ -30,12 +30,9 @@
     "imageSrc": "projects/Group-Notes.png",
     "description": "Developed a responsive web application using React.js for managing group notes efficiently. Implemented features allowing users to create notes within designated groups.",
     "skills": [
-      "MERN",
-      "Tailwind CSS",
-      "DaisyUI",
-      "Socket.io"
+      "React.js"
     ],
-    "Project_Link": "https://www.example.com",
+    "Project_Link": "https://pocket-notes-rho-six.vercel.app/",
     "Github_Link": "https://github.com/Pavank-1812/Group-Notes"
   },
   {

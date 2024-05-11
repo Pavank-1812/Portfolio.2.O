@@ -53,6 +53,11 @@
   padding: 2px 22px;
 }
 
+.skill:hover {
+  background: var(--color-skill);
+  cursor: pointer;
+}
+
 .links {
   width: 100%;
   margin-top: 20px;
@@ -70,3 +75,8 @@
   padding: 1px 22px;
 }
 
+.link:hover {
+  transition: 0.6s;
+  transform: translateY(-8px);
+  background: var(--color-projectLink);
+}
