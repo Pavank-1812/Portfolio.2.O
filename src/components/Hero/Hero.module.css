@@ -47,6 +47,11 @@
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
 
+.link {
+  display: flex;
+  gap: 20px;
+}
+
 .heroImg {
   width: 30%;
   z-index: 1;
@@ -65,7 +70,7 @@
     transform: translate(0,10px);
   }
   100% {
-    transform: translate(0,-10px);
+    transform: translate(0,-0px);
   }
 }
 
@@ -105,6 +110,16 @@
 
   .content {
     align-items: center;
+  }
+  .title {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  .description {
+    font-size: 18px;
+    text-align: center;
   }
   
 }

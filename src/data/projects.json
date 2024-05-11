@@ -18,7 +18,6 @@
     "description": "This is a customized app for which recommends users movies upon selecting genre and users get personal space for writing notes and using timer. This app also diplays latest news and weather details from respective APIs.",
     "skills": [
       "React.js",
-      "API",
       "Git",
       "Netlify"
     ],
@@ -30,7 +29,9 @@
     "imageSrc": "projects/Group-Notes.png",
     "description": "Developed a responsive web application using React.js for managing group notes efficiently. Implemented features allowing users to create notes within designated groups.",
     "skills": [
-      "React.js"
+      "React.js",
+      "Git",
+      "Vercel"
     ],
     "Project_Link": "https://pocket-notes-rho-six.vercel.app/",
     "Github_Link": "https://github.com/Pavank-1812/Group-Notes"

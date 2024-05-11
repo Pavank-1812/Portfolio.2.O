@@ -1,6 +1,7 @@
 import React from "react";
 import { getImageUrl } from "../../utils";
 import styles from "./Hero.module.css";
+import resume from "../../Resume/Pavan_Kanamarlapudi.pdf";
 
 const Hero = () => {
   return (
@@ -10,12 +11,22 @@ const Hero = () => {
         <p className={styles.description}>
           I'm a MERN Stack Developer. Reach out to know more.
         </p>
-        <a
-          className={styles.contactBtn}
-          href="mailto:pavankanamarlapudi18@gmail.com"
-        >
-          Get in touch🤝
-        </a>
+        <div className={styles.link}>
+          <a
+            target="_blank"
+            className={styles.contactBtn}
+            href="mailto:pavankanamarlapudi18@gmail.com"
+          >
+            Get in touch🤝
+          </a>
+          <a
+          target="_blank"
+            className={styles.contactBtn}
+            href={resume}
+          >
+            Resume⬇️
+          </a>
+        </div>
       </div>
       <img
         className={styles.heroImg}

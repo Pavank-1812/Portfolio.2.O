@@ -10,12 +10,52 @@
   margin: 0 10%; /*modify accordingly*/
 }
 
+ul li {
+  display: inline-block;
+  margin: 0 14px;
+}
+
+ul li a {
+  color: #fff;
+  transition: 0.6s;
+  position: relative;
+  z-index: 1;
+}
+
+ul li a:after {
+  position: absolute;
+  content: "";
+  top: 100%;
+  left: 0;
+  height: 3px;
+  width: 0;
+  background-color: var(--color--navbar-list);
+  transition: 0.6s;
+}
+ul li a:hover:after {
+  width: 100%;
+}
+
+.sub_header {
+  width: 100%;
+  margin-top: 12px;
+  background: var(--color-primary);
+  color: var(--color-text);
+  font-weight: 600;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
 .title {
   font-size: 30px;
   font-weight: 600;
   text-decoration: none;
   color: var(--color-title);
   letter-spacing: 1.2px;
+}
+
+.menuBtn {
+  display: none;
 }
 
 .menu {
