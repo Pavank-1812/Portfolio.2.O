@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Let's Chat",
+    "imageSrc": "projects/Chat-App.png",
+    "description": "Developed a real-time chat application using MERN Stack, ensuring instant message delivery. Implemented user authentication and authorization functionalities. Integrated MongoDB as the database solution for storing chat messages and user data.",
+    "skills": [
+      "MERN",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Socket.io"
+    ],
+    "Project_Link": "https://mern-chat-app-ptm4.onrender.com/",
+    "Github_Link": "https://github.com/Pavank-1812/MERN-Chat-App"
+  },
+  {
+    "title": "Super App",
+    "imageSrc": "projects/SuperApp.png",
+    "description": "This is a customized app for which recommends users movies upon selecting genre and users get personal space for writing notes and using timer. This app also diplays latest news and weather details from respective APIs.",
+    "skills": [
+      "React.js",
+      "API",
+      "Git",
+      "Netlify"
+    ],
+    "Project_Link": "https://super-app-psi-seven.vercel.app/",
+    "Github_Link": "https://github.com/Pavank-1812/SuperApp"
+  },
+  {
+    "title": "Pocket Notes App",
+    "imageSrc": "projects/Group-Notes.png",
+    "description": "Developed a responsive web application using React.js for managing group notes efficiently. Implemented features allowing users to create notes within designated groups.",
+    "skills": [
+      "MERN",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Socket.io"
+    ],
+    "Project_Link": "https://www.example.com",
+    "Github_Link": "https://github.com/Pavank-1812/Group-Notes"
+  },
+  {
+    "title": "Rock Paper Scissors Gaame",
+    "imageSrc": "projects/rps-game.png",
+    "description": "This is a customized Rock Paper Scissors game. Implemented the user interface using HTML, CSS and game logic using JavaScript.",
+    "skills": [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Git",
+      "Vercel"
+    ],
+    "Project_Link": "https://rock-paper-scissors-game-beryl-sigma.vercel.app/",
+    "Github_Link": "https://github.com/Pavank-1812/Rock-Paper-Scissors-Game"
+  }
+]
