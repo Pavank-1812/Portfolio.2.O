@@ -30,7 +30,7 @@ const Contact = () => {
         </li>
         <li class={styles.link}>
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github-Icon" />
-          <a target="_blank" href="mailto:pavankanamarlapudi18@gmail.com">
+          <a target="_blank" href="https://github.com/PavanK-1812">
             github.com/PavanK-1812
           </a>
         </li>
