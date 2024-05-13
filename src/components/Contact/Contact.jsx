@@ -34,6 +34,9 @@ const Contact = () => {
             github.com/PavanK-1812
           </a>
         </li>
+        <li class={styles.link}>
+           <h2 className={styles.phone}>PH: +91 9000483109</h2>
+        </li>
       </ul>
     </footer>
   );
