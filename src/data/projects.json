@@ -1,12 +1,21 @@
 [
   {
+    "title": "Pro Manage",
+    "imageSrc": "projects/dashbord.png",
+    "description": "Developed a real-time Tasks managing application using the MERN Stack. Implemented user authentication and authorization functionalities using JSON Web Tokens (JWT) and bcrypt for secure access to the application. State management is done using the Redux.Integrated MongoDB as the database solution for storing tasks and user data.",
+    "skills": [
+      "MERN"
+    ],
+    "Project_Link": "https://promanage-1-p3n8.onrender.com/login",
+    "Github_Link": "https://github.com/Pavank-1812/Pro_Manage"
+  },
+  {
     "title": "Let's Chat",
     "imageSrc": "projects/Chat-App.png",
     "description": "Developed a real-time chat application using MERN Stack, ensuring instant message delivery. Implemented user authentication and authorization functionalities. Integrated MongoDB as the database solution for storing chat messages and user data.",
     "skills": [
       "MERN",
       "Tailwind CSS",
-      "DaisyUI",
       "Socket.io"
     ],
     "Project_Link": "https://mern-chat-app-ptm4.onrender.com/",

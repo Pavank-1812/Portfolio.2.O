@@ -17,6 +17,10 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
@@ -33,11 +37,15 @@
     "imageSrc": "skills/github.png"
   },
   {
-    "title": "C Language",
-    "imageSrc": "skills/C Language.png"
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
   },
   {
     "title": "Java",
     "imageSrc": "skills/Java.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
   }
 ]

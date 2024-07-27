@@ -1,9 +1,17 @@
 [
   {
+    "role": "Graduate Engineer Trainee",
+    "organisation": "LTIMindtree",
+    "startDate": "June, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on Java, JavaScript, Python, JDBC, Angular, TypeScript"],
+    "imageSrc": "history/LTIM.png"
+  },
+  {
     "role": "MERN Stack Developer",
     "organisation": "Cuvette",
     "startDate": "Oct, 2023",
-    "endDate": "Present",
+    "endDate": "May, 2024",
     "experiences": ["Worked on MERN Full Stack", "Implemented Projects using MERN"],
     "imageSrc": "history/cuvette.png"
   }
