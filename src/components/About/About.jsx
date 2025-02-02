@@ -27,21 +27,22 @@ const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
+            <img className = {styles.data} src={getImageUrl("about/data engineer.jpeg")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Data Engineer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites.
+                I'm a Data Engineer at LTIMindtree with experience in Managing data efficiently
+                using Azure Services.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
+            <img class={styles.MERN} src={getImageUrl("about/MERN.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>MERN Stack Developer</h3>
               <p>
-                I have experience in developing fast and optimised back-end systems
+              I have experience in building responsive
+              and optimized sites with optimised back-end systems
                 and APIs.
               </p>
             </div>
