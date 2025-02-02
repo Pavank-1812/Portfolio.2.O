@@ -25,10 +25,6 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "Figma",
-    "imageSrc": "skills/figma.png"
-  },
-  {
     "title": "Git",
     "imageSrc": "skills/git.png"
   },
@@ -47,5 +43,13 @@
   {
     "title": "SQL",
     "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/Python.png"
+  },
+  {
+    "title": "Azure",
+    "imageSrc": "skills/Azure.png"
   }
 ]

@@ -35,6 +35,11 @@
   align-items: center;
   gap: 11px;
 }
+.skill:hover {
+  transform: scale(1.4);
+  transition: 0.6s;
+  cursor: pointer;
+}
 
 .skillImageContainer {
   background-color: var(--color-secondary);

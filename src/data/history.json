@@ -1,9 +1,25 @@
 [
   {
+    "role": "Data Emgineer",
+    "organisation": "LTIMindtree",
+    "startDate": "Nov, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on SQL, KQL, Azure Data Explorer"],
+    "imageSrc": "history/LTIM.png"
+  },
+  {
     "role": "Graduate Engineer Trainee",
     "organisation": "LTIMindtree",
+    "startDate": "Aug, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Worked on Python, SQL, Azure Services, PowerBI"],
+    "imageSrc": "history/LTIM.png"
+  },
+  {
+    "role": "Intern",
+    "organisation": "LTIMindtree",
     "startDate": "June, 2024",
-    "endDate": "Present",
+    "endDate": "July, 2024",
     "experiences": ["Worked on Java, JavaScript, Python, JDBC, Angular, TypeScript"],
     "imageSrc": "history/LTIM.png"
   },
