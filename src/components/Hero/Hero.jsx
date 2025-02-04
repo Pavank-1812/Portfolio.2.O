@@ -9,7 +9,7 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Pavan Kanamarlapudi</h1>
         <p className={styles.description}>
-          I'm a MERN Stack Developer. Reach out to know more.
+          I'm a Data Engineer. Reach out to know more.
         </p>
         <div className={styles.link}>
           <a
